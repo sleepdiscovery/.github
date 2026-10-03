@@ -12,4 +12,4 @@ Computational sleep science from large-scale human sleep recordings and AI.<br>
 
 ## Code
 
-- [asd-sleep-architecture-children](https://github.com/sleepdiscovery/asd-sleep-architecture-children): sleep architecture in autistic children across four pediatric sleep laboratories.
+- [asd-sleep-architecture-children](https://github.com/sleepdiscovery/asd-sleep-architecture-children): sleep architecture of autistic and non-autistic children referred to four clinical sleep laboratories.
